@@ -1,6 +1,6 @@
-- Hi Todsavad Tangtortan 👋
-- st123012@ait.asia
-- guntsvzz@gmail.com
+- 👋 Hi I'm Gun
+- 📫 st123012@ait.asia
+- 📫 guntsvzz@gmail.com
 <!--
 **guntsvzz/guntsvzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
