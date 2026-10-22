@@ -1,5 +1,5 @@
 - 👋 Hi I'm Gun
-- 📫 st123012@ait.asia
+- 📫 st124859@ait.asia
 - 📫 guntsvzz@gmail.com
 <!--
 **guntsvzz/guntsvzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
